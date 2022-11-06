@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 import plotly.express as px
-import seaborn as sns
+
 
 
 us_df = pd.read_csv('us.csv')
